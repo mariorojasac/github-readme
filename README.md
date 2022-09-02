@@ -1,8 +1,5 @@
 
 ![Mario Rojas GitHub stats](https://github-readme-stats.vercel.app/api?username=mariorojasac&theme=red-blue)
-#
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariorojasac&layout=compact)](https://github.com/mariorojasac/)
-
 
 
 ## Social Media Links:
@@ -17,11 +14,11 @@
 ## Languages
 These are the languages that I have some knowledge in. I'm still in the process of gaining proficiency within each of the languages but I have workable experience with each of these languages.
 
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariorojasac&layout=compact)](https://github.com/mariorojasac/)
 
 
 ## Frameworks
